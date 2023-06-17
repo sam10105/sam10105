@@ -13,7 +13,8 @@ I'm a Front-end Developer working in Nairobi, Kenya.
 
 #### PROJECTS
 
-- 🏀 Created [Uninterrupted](https://www.uninterrupted.com/) website
+- 🏀 [Uninterrupted](https://www.uninterrupted.com/) website
+- 🚌 [Panda Basi](https://pandabasi.debe.studio/)
 - 🙈 More on the way
 
 #### WEB TECHNOLOGIES
@@ -48,5 +49,4 @@ I'm a Front-end Developer working in Nairobi, Kenya.
 #### 📫 How to reach me
 
 [![Linkedin Badge](https://img.shields.io/badge/-samkasyoki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sam-kasyoki-0bb33417a/)](https://www.linkedin.com/in/sam-kasyoki-0bb33417a/)
-[![Website Badge](https://img.shields.io/badge/-kasyoki.com-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://kasyoki.com/)](https://kasyoki.com/)
-[![Gmail Badge](https://img.shields.io/badge/-samkasyoki@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samkasyoki@gmail.com)](mailto:samkasyoki@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-sam@debe.studio-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sam@debe.studio)](mailto:sam@debe.studio)
