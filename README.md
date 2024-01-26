@@ -16,6 +16,7 @@ I'm a Front-end Developer working in Nairobi, Kenya.
 - 🏀 [Uninterrupted](https://www.uninterrupted.com/)
 - 🚌 [Panda Basi](https://pandabasi.debe.studio/)
 - 🦁 [Leono](https://omondileon.com/)
+- 🏥 [Ilara Health](https://www.ilarahealth.com/)
 - 🙈 More on the way
 
 #### WEB TECHNOLOGIES
